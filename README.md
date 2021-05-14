@@ -4,5 +4,5 @@ Full stack image uploader using java spring boot on the backend, react on the fr
 ## instructions
 add aws credential inside /src/main/java/.com.photobucket.awsimageupload/config/amazonConfig
 
--run main java app
+- run main java app
 - run react app in /src/main/frontend
