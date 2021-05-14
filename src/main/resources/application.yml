@@ -1,0 +1,16 @@
+logging:
+  level:
+    com:
+      amazonaws:
+        util:
+          EC2MetadataUtils: error
+
+#cloud:
+#  aws:
+#    region:
+#      static: us-west-2
+#      auto: false
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB
